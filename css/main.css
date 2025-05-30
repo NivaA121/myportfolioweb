@@ -38,6 +38,8 @@ html {
     
 }
 
+
+
 .scroll-effect{
     scroll-snap-type: y mandatory;
     overflow-y: scroll;
